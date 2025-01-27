@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/georgijkuliasvili/Documents/GitHub/apitex/04_NEXT-JS/apitex/src/app/layout":["static/media/a9b61b60c2d733b4-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
