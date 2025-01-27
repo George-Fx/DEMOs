@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[490],{6495:(e,s,i)=>{Promise.resolve().then(i.bind(i,6690))},6690:(e,s,i)=>{"use strict";i.d(s,{MobilePayment:()=>n});var l=i(5155);i(2115);let n=()=>(0,l.jsx)("div",{children:"MobilePayment"})}},e=>{var s=s=>e(e.s=s);e.O(0,[441,455,358],()=>s(6495)),_N_E=e.O()}]);

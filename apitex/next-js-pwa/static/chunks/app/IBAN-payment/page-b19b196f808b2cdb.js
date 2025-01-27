@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[900],{7577:(e,s,n)=>{Promise.resolve().then(n.bind(n,4026))},4026:(e,s,n)=>{"use strict";n.d(s,{IBANPayment:()=>r});var a=n(5155);n(2115);let r=()=>(0,a.jsx)("div",{children:"IBANPayment"})}},e=>{var s=s=>e(e.s=s);e.O(0,[441,455,358],()=>s(7577)),_N_E=e.O()}]);
